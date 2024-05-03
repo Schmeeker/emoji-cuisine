@@ -20,6 +20,7 @@ No licence yet, but I'll probably end up using the BSD two-clause because it's n
 - Actually write some code (lmao)
 - Remember to use the GitHib shortcodes
 - Fight for justice for the :hamster: emoji (otherwise known as the only animal face emoji unusable with Emoji Kitchen
+
 | Animal Emoji | Compatible? |
 | ------------ | ----------- |
 | :monkey: | :check: |
