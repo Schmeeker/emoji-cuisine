@@ -23,7 +23,7 @@ No licence yet, but I'll probably end up using the BSD two-clause because it's n
 
 | Animal Emoji | Compatible? |
 | ------------ | ----------- |
-| :monkey: | :ballot_box_with_check: |
+| :monkey_face: | :ballot_box_with_check: |
 | :lion: | :ballot_box_with_check: |
 | :tiger: | :ballot_box_with_check: |
 | :cat: | :ballot_box_with_check: |
@@ -31,11 +31,11 @@ No licence yet, but I'll probably end up using the BSD two-clause because it's n
 | :bear: | :ballot_box_with_check: |
 | :polar_bear: | :no_entry_sign: |
 | :koala: | :ballot_box_with_check: |
-| :panda: | :ballot_box_with_check: |
+| :panda_face: | :ballot_box_with_check: |
 | :hamster: | :no_entry_sign: |
 | :mouse: | :ballot_box_with_check: |
 | :rabbit: | :ballot_box_with_check: |
-| :fox: | :ballot_box_with_check: |
+| :fox_face: | :ballot_box_with_check: |
 | :raccoon: | :ballot_box_with_check: |
 | :cow: | :ballot_box_with_check: |
 | :pig: | :ballot_box_with_check: |
@@ -44,7 +44,8 @@ No licence yet, but I'll probably end up using the BSD two-clause because it's n
 | :horse: | :no_entry_sign: |
 | :frog: | :ballot_box_with_check: |
 | :lizard: | :no_entry_sign: |
-| :t_rex: | :no_entry_sign: |
+| :t-rex: | :no_entry_sign: |
+| :sauropod: | :no_entry_sign: |
 | :turtle: | :ballot_box_with_check: |
 | :alligator: | :no_entry_sign: |
 | :snake: | :no_entry_sign: |
