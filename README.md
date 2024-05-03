@@ -23,7 +23,7 @@ No licence yet, but I'll probably end up using the BSD two-clause because it's n
 
 | Animal Emoji | Compatible? |
 | ------------ | ----------- |
-| :monkey: | :check: |
+| :monkey: | :ballot_box_with_check: |
 | :lion: | :check: |
 | :tiger: | :check: |
 | :cat: | :check: |
