@@ -15,3 +15,35 @@ This is really inconsistent and strange behaviour for seemingly simple combinati
 This project has absolutely NOTHING to do with Google, Gboard, Android, or the Emoji Kitchen. All copyrights and trademarks are property of their respective owners. This project also has absolutely NO ill-will towards the aforementioned entities/software tools, and simply exists as a silly project to practice using Git, Python, and various Python libraries.
 
 No licence yet, but I'll probably end up using the BSD two-clause because it's nice and simple
+
+# To-Do
+- Actually write some code (lmao)
+- Remember to use the GitHib shortcodes
+- Fight for justice for the :hamster: emoji (otherwise known as the only animal face emoji unusable with Emoji Kitchen
+| Animal Emoji | Compatible? |
+| ------------ | ----------- |
+| :monkey: | :check: |
+| :lion: | :check: |
+| :tiger: | :check: |
+| :cat: | :check: |
+| :dog: | :check: |
+| :bear: | :check: |
+| :polar_bear: | :no_entry_sign: |
+| :koala: | :check: |
+| :panda: | :check: |
+| :hamster: | :no_entry_sign: |
+| :mouse: | :check: |
+| :rabbit: | :check: |
+| :fox: | :check: |
+| :raccoon: | :check: |
+| :cow: | :check: |
+| :pig: | :check: |
+| :zebra: | :no_entry_sign: |
+| :unicorn: | :check: |
+| :horse: | :no_entry_sign: |
+| :frog: | :check: |
+| :lizard: | :no_entry_sign: |
+| :t_rex: | :no_entry_sign: |
+| :turtle: | :check: |
+| :alligator: | :no_entry_sign: |
+| :snake: | :no_entry_sign: |
